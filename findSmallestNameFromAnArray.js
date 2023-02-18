@@ -21,4 +21,4 @@ function tinyName(array) {
   return smallestName;
 }
 let result = tinyName(studentsName);
-console.log(result);
+console.log(result); //IT WILL RETURN => Sani
