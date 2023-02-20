@@ -3,3 +3,5 @@
 1. JS find the smallest name from an array
 
 2. JS reverse a string
+
+3. Print unique ID's of object's value in DOM in their specified category
